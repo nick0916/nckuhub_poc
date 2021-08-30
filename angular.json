@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "angular": {
+    "nckuhub_poc": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -120,5 +120,5 @@
       }
     }
   },
-  "defaultProject": "angular"
+  "defaultProject": "nckuhub_poc"
 }
