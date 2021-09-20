@@ -1,0 +1,23 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.detectIndentation": true,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 4,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "[javascript]": {
+      "editor.formatOnSave": false
+    },
+    "prettier.disableLanguages": ["js"],
+    "eslint.alwaysShowStatus": true,
+    "cSpell.words": [
+      "nckuhub",
+      "Nckuhub"
+    ],
+    "importSorter.generalConfiguration.sortOnBeforeSave": true,
+    "files.eol": "\n",
+    "importSorter.sortConfiguration.removeUnusedDefaultImports": true,
+    "importSorter.sortConfiguration.removeUnusedImports": true
+  }
+  
